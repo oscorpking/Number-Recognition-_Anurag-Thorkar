@@ -1,0 +1,15 @@
+.first{
+    float:  left;
+    width: 300px;
+    height: 300px;
+    border: #2bc041;
+    background:#c02b2b;}
+.second{
+    float: right;
+    width: 50%;
+    height: 500px;
+    display: inline-block;
+    border: solid #ccc 1px;
+    padding: 10px;
+
+}
